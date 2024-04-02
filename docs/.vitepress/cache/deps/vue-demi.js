@@ -1,4 +1,12 @@
 import {
+  Vue2,
+  del,
+  install,
+  isVue2,
+  isVue3,
+  set
+} from "./chunk-24RNYCPA.js";
+import {
   BaseTransition,
   BaseTransitionPropsValidators,
   Comment,
@@ -145,6 +153,7 @@ import {
   vModelText,
   vShow,
   version,
+  vue_runtime_esm_bundler_exports,
   warn,
   watch,
   watchEffect,
@@ -158,7 +167,8 @@ import {
   withMemo,
   withModifiers,
   withScopeId
-} from "./chunk-Z6B2QTD3.js";
+} from "./chunk-ALCXONAC.js";
+import "./chunk-CSAU5B4Q.js";
 export {
   BaseTransition,
   BaseTransitionPropsValidators,
@@ -178,6 +188,8 @@ export {
   Transition,
   TransitionGroup,
   TriggerOpTypes,
+  vue_runtime_esm_bundler_exports as Vue,
+  Vue2,
   VueElement,
   assertNumber,
   callWithAsyncErrorHandling,
@@ -212,6 +224,7 @@ export {
   defineProps,
   defineSSRCustomElement,
   defineSlots,
+  del,
   devtools,
   effect,
   effectScope,
@@ -226,6 +239,7 @@ export {
   initCustomFormatter,
   initDirectivesForSSR,
   inject,
+  install,
   isMemoSame,
   isProxy,
   isReactive,
@@ -234,6 +248,8 @@ export {
   isRuntimeOnly,
   isShallow,
   isVNode,
+  isVue2,
+  isVue3,
   markRaw,
   mergeDefaults,
   mergeModels,
@@ -273,6 +289,7 @@ export {
   resolveDynamicComponent,
   resolveFilter,
   resolveTransitionHooks,
+  set,
   setBlockTracking,
   setDevtoolsHook,
   setTransitionHooks,
@@ -320,4 +337,4 @@ export {
   withModifiers,
   withScopeId
 };
-//# sourceMappingURL=vue.js.map
+//# sourceMappingURL=vue-demi.js.map
