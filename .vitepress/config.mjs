@@ -4,7 +4,7 @@ export default defineConfig({
   lang: 'Ru-RU',
   title: "DeScience",
   description: "Арсенал Дизайнера",
-  base: '/repo/',
+  base: '/',
   themeConfig: {
     nav: [
       { text: 'Обновления', link: 'https://t.me/DeScience' }
