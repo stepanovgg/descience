@@ -4,7 +4,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "Descience",
   description: "A VitePress Site",
-  base: '/base/',
+  base: '/descience/',
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
