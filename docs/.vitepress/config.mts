@@ -3,7 +3,7 @@ import { defineConfig } from 'vitepress'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   title: "Descience",
-  description: "A VitePress Site",
+  description: "Арсенал дизайнера",
   base: '/descience/',
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
