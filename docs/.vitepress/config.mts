@@ -1,24 +1,22 @@
 import { defineConfig } from 'vitepress'
 
-// https://vitepress.dev/reference/site-config
 export default defineConfig({
   lang: 'ru-RU',
   title: "Descience",
   description: "Арсенал дизайнера",
   base: '/descience/',
   themeConfig: {
-    // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: 'Home', link: '/' },
       { text: 'Examples', link: '/markdown-examples' }
     ],
 
     sidebar: {
-      '/db/': [ // Добавлен слэш в конце пути
+      '/db/': [
         {
-          text: 'Арсенал дизайнера', // Исправлена опечатка в слове "вдохновение"
+          text: 'Арсенал дизайнера',
           items: [
-            { text: '💭 Вдохновение', link: '/db/inspire' }, // Добавлена запятая
+            { text: '💭 Вдохновение', link: '/db/inspire' },
             { text: '✒️ Иллюстрации', link: '/db/inspire/index' },
             { text: '⭐️ Иконки', link: '/db/inspire/index' },
             { text: '💻 Мокапы', link: '/db/inspire/index' },
@@ -30,14 +28,21 @@ export default defineConfig({
           ]
         },
         {
-          text: 'Обозначения', // Исправлена опечатка в слове "вдохновение"
+          text: 'Обозначения',
           items: [
-            { text: 'F - Беслпатный ресурс', }, // Добавлена запятая
+            { text: 'F - Бесплатный ресурс', },
             { text: 'FP - Частично бесплатно', },
             { text: 'P - Премиум доступ', }
           ]
         }
       ]
+    },
+
+    themeConfig: {
+      footer: {
+        message: 'Выпущено под лицензией MIT.',
+        copyright: 'Авторское право © 2019-настоящее время Еван Ю'
+      }
     },
 
     socialLinks: [
