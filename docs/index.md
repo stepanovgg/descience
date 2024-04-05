@@ -56,29 +56,5 @@ features:
     title: Видеостоки
     details: В разработке
     # link: /db/videostock
----
-
-<script setup>
-import { VPTeamMembers } from 'vitepress/theme'
-
-const members = [
-  {
-    avatar: 'https://www.github.com/yyx990803.png',
-    name: 'Еван Ю',
-    title: 'Создатель',
-    links: [
-      { icon: 'github', link: 'https://github.com/yyx990803' },
-      { icon: 'twitter', link: 'https://twitter.com/youyuxi' }
-    ]
-  },
-  ...
-]
-</script>
 
 ---
-
-# Наша Команда
-
-Познакомьтесь с нашей замечательной командой.
-
-<VPTeamMembers size="small" :members="members" />
