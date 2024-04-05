@@ -18,7 +18,7 @@ export default defineConfig({
         {
           text: 'Арсенал дизайнера', // Исправлена опечатка в слове "вдохновение"
           items: [
-            { text: '💭 Вдохновение', link: '/docs/designerdb/inspire' }, // Добавлена запятая
+            { text: '💭 Вдохновение', link: '/ddb/inspire/index' }, // Добавлена запятая
             { text: '✒️ Иллюстрации', link: '/docs/designerdb/illustration/illustration' },
             { text: '⭐️ Иконки', link: '/docs/designerdb/' },
             { text: '💻 Мокапы', link: '/docs/designerdb/' },
