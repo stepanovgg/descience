@@ -23,35 +23,35 @@ features:
     link: /db/inspire/index
   - icon: ✒️
     title: Иллюстрации
-    details: Сайты с иллюстрациями
-    link: /db/illustration/illustration
+    details: В разработке
+    # link: /db/illustration/index
   - icon: ⭐️
     title: Иконки
     details: Сайты с иллюстрациями
-    link: /docs/ddb/icons/icons
+    # link: /db/icons/index
   - icon: 💻
     title: Мокапы
-    details: Сайты с мокапами
-    link: /db/mockups
+    details: В разработке
+    # link: /db/mockups/index
   - icon: 🐳
     title: UI/UX-Киты
-    details: Сайты с Китами
-    link: /db/uikits
+    details: В разработке
+    # link: /db/uikits/index
   - icon: 🛠
     title: Figma
-    details: Сайты для фигмы
-    link: /db/figma
+    details: В разработке
+    # link: /db/figma/index
   - icon: 🆎
     title: Шрифты
-    details: Сайты с шрифтами
-    link: /db/fonts
+    details: В разработке
+    # link: /db/fonts/index
   - icon: 📷
     title: Фотостоки
-    details: Сайты с фото
-    link: /db/photostock
+    details: В разработке
+    # link: //db/photostock/index
   - icon: 🎥
     title: Видеостоки
-    details: Сайты с видео
-    link: /db/videostock
+    details: В разработке
+    # link: /db/videostock/index
 ---
 
