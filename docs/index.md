@@ -7,7 +7,7 @@ hero:
   text: "Арсенал дизайнера"
   tagline: Самая большая коллекция ссылок для фрилансеров
   image:
-    src: /img/main.png
+    src: "/img/main.png"
     alt: DeScience
   actions:
     - theme: brand
@@ -23,39 +23,39 @@ hero:
 
 features:
   - icon: 💭
-    title: Вдохновение
+    title: Вдохновение / Inspire
     details: Сайты для поиска вдохновения перед началом творческого процесса
     link: /db/inspire
-  - icon: ✒️
-    title: Иллюстрации
+  - icon: 🚧
+    title: Иллюстрации / Vector
     details: В разработке
     # link: /db/illustration
-  - icon: ⭐️
-    title: Иконки
+  - icon: 🚧
+    title: Иконки / Icons
     details: Сайты с иллюстрациями
     # link: /db/icons
-  - icon: 💻
-    title: Мокапы
+  - icon: 🚧
+    title: Мокапы / Mockups
     details: В разработке
     # link: /db/mockups
-  - icon: 🐳
+  - icon: 🚧
     title: UI/UX-Киты
     details: В разработке
     # link: /db/uikits
-  - icon: 🛠
+  - icon: 🚧
     title: Figma
     details: В разработке
     # link: /db/figma
-  - icon: 🆎
-    title: Шрифты
+  - icon: 🚧
+    title: Шрифты / Fonts
     details: В разработке
     # link: /db/fonts
-  - icon: 📷
-    title: Фотостоки
+  - icon: 🚧
+    title: Фотостоки / PhotoStock
     details: В разработке
     # link: //db/photostock
-  - icon: 🎥
-    title: Видеостоки
+  - icon: 🚧
+    title: Видеостоки / VideoStock
     details: В разработке
     # link: /db/videostock
 
