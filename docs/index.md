@@ -20,11 +20,11 @@ features:
   - icon: 💭
     title: Вдохновение
     details: Сайты для поиска вдохновения перед началом творческого процесса
-    link: /db/inspire
+    link: /docs/designerdb/inspire
   - icon: ✒️
     title: Иллюстрации
     details: Сайты с иллюстрациями
-    link: /db/illustration
+    link: /docs/designerdb/illustration/illustration
   - icon: ⭐️
     title: Иконки
     details: Сайты с иллюстрациями
