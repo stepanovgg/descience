@@ -6,11 +6,14 @@ export default defineConfig({
   description: "Арсенал дизайнера",
   base: '/descience/',
   themeConfig: {
+    footer: {
+      message: 'Выпущено под лицензией MIT.',
+      copyright: 'Авторское право © 2019-настоящее время Еван Ю'
+    },
     nav: [
       { text: 'Home', link: '/' },
       { text: 'Examples', link: '/markdown-examples' }
     ],
-
     sidebar: {
       '/db/': [
         {
@@ -30,21 +33,13 @@ export default defineConfig({
         {
           text: 'Обозначения',
           items: [
-            { text: 'F - Бесплатный ресурс', },
-            { text: 'FP - Частично бесплатно', },
-            { text: 'P - Премиум доступ', }
+            { text: 'F - Бесплатный ресурс' },
+            { text: 'FP - Частично бесплатно' },
+            { text: 'P - Премиум доступ' }
           ]
         }
       ]
     },
-
-    themeConfig: {
-      footer: {
-        message: 'Выпущено под лицензией MIT.',
-        copyright: 'Авторское право © 2019-настоящее время Еван Ю'
-      }
-    },
-
     socialLinks: [
       { icon: 'instagram', link: 'https://instagram.com/stepanov.go' }
     ],
