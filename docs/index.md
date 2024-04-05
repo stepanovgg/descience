@@ -7,6 +7,9 @@ hero:
   name: "DeScience"
   text: "Арсенал дизайнера"
   tagline: Самая большая коллекция ссылок для фрилансеров
+  image:
+    src: /logo.png
+    alt: VitePress
   actions:
     - theme: brand
       text: Открыть Арсенал Дизайнера
