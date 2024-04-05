@@ -7,7 +7,7 @@ hero:
   text: "Арсенал дизайнера"
   tagline: Самая большая коллекция ссылок для фрилансеров
   image:
-    src: /img/main
+    src: docs\img\main.png
     alt: DeScience
   actions:
     - theme: brand
