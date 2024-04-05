@@ -3,6 +3,7 @@
 layout: home
 
 hero:
+  lastUpdated: April 5
   name: "DeScience"
   text: "Арсенал дизайнера"
   tagline: Самая большая коллекция ссылок для фрилансеров
@@ -16,6 +17,7 @@ hero:
     - theme: alt
       text: Перейти телеграм
       link: https://t.me/descience
+      
 
 features:
   - icon: 💭
