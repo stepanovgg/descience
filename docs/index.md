@@ -12,13 +12,13 @@ hero:
     alt: DeScience
   actions:
     - theme: brand
-      text: Открыть Арсенал Дизайнера
+      text: Начать работу
       link: db/inspire
     - theme: brand
       text: Помочь проекту
       link: https://t.me/+fVfG-UWo2yg5ZmE6
     - theme: alt
-      text: Перейти телеграм
+      text: Telegram
       link: https://t.me/descience
       
 
