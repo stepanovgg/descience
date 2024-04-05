@@ -21,38 +21,38 @@ features:
   - icon: 💭
     title: Вдохновение
     details: Сайты для поиска вдохновения перед началом творческого процесса
-    link: /db/inspire/index
+    link: /db/inspire
   - icon: ✒️
     title: Иллюстрации
     details: В разработке
-    # link: /db/illustration/index
+    # link: /db/illustration
   - icon: ⭐️
     title: Иконки
     details: Сайты с иллюстрациями
-    # link: /db/icons/index
+    # link: /db/icons
   - icon: 💻
     title: Мокапы
     details: В разработке
-    # link: /db/mockups/index
+    # link: /db/mockups
   - icon: 🐳
     title: UI/UX-Киты
     details: В разработке
-    # link: /db/uikits/index
+    # link: /db/uikits
   - icon: 🛠
     title: Figma
     details: В разработке
-    # link: /db/figma/index
+    # link: /db/figma
   - icon: 🆎
     title: Шрифты
     details: В разработке
-    # link: /db/fonts/index
+    # link: /db/fonts
   - icon: 📷
     title: Фотостоки
     details: В разработке
-    # link: //db/photostock/index
+    # link: //db/photostock
   - icon: 🎥
     title: Видеостоки
     details: В разработке
-    # link: /db/videostock/index
+    # link: /db/videostock
 ---
 
