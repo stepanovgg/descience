@@ -20,15 +20,15 @@ features:
   - icon: 💭
     title: Вдохновение
     details: Сайты для поиска вдохновения перед началом творческого процесса
-    link: /docs/ddb/inspire/index
+    link: /docs/ddb/inspire/index.md
   - icon: ✒️
     title: Иллюстрации
     details: Сайты с иллюстрациями
-    link: /docs/ddb/illustration
+    link: /docs/ddb/illustration/illustration
   - icon: ⭐️
     title: Иконки
     details: Сайты с иллюстрациями
-    link: /db/icons
+    link: /docs/ddb/icons/icons
   - icon: 💻
     title: Мокапы
     details: Сайты с мокапами
