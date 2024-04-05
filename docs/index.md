@@ -8,8 +8,8 @@ hero:
   text: "Арсенал дизайнера"
   tagline: Самая большая коллекция ссылок для фрилансеров
   image:
-    src: /logo.png
-    alt: VitePress
+    src: /img/main.png
+    alt: DeScience
   actions:
     - theme: brand
       text: Открыть Арсенал Дизайнера
