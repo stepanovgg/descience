@@ -3,8 +3,9 @@
 layout: home
 
 hero:
-  name: "DeScience - Арсенал Дизайнера"
-  text: "База данных для Дизайнеров"
+  name: "DeScience"
+  text: "Арсенал дизайнера"
+  features: База полезных ссылок и материалов для дизайнеров и фрилансеров
   actions:
     - theme: brand
       text: Открыть Арсенал Дизайнера

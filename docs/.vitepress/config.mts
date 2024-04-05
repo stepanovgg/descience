@@ -18,15 +18,15 @@ export default defineConfig({
         {
           text: 'Арсенал дизайнера', // Исправлена опечатка в слове "вдохновение"
           items: [
-            { text: '💭 Вдохновение', link: '/ddb/inspire/index' }, // Добавлена запятая
-            { text: '✒️ Иллюстрации', link: '/docs/designerdb/illustration/illustration' },
-            { text: '⭐️ Иконки', link: '/docs/designerdb/' },
-            { text: '💻 Мокапы', link: '/docs/designerdb/' },
-            { text: '🐳 UI/UX-Киты', link: '/docs/designerdb/' },
-            { text: '🆎 Шрифты', link: '/docs/designerdb/' },
-            { text: '📷 Фотостоки', link: '/docs/designerdb/' },
-            { text: '🎥 Видеостоки', link: '/docs/designerdb/' },
-            { text: '🛠  Figma / XD / Sketch', link: '/docs/designerdb/' }
+            { text: '💭 Вдохновение', link: '/db/inspire/index' }, // Добавлена запятая
+            { text: '✒️ Иллюстрации', link: '/db/inspire/index' },
+            { text: '⭐️ Иконки', link: '/db/inspire/index' },
+            { text: '💻 Мокапы', link: '/db/inspire/index' },
+            { text: '🐳 UI/UX-Киты', link: '/db/inspire/index' },
+            { text: '🆎 Шрифты', link: '/db/inspire/index' },
+            { text: '📷 Фотостоки', link: '/db/inspire/index' },
+            { text: '🎥 Видеостоки', link: '/db/inspire/index' },
+            { text: '🛠  Figma / XD / Sketch', link: '/db/inspire/index' }
           ]
         }
       ],
