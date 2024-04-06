@@ -3,7 +3,17 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   lang: 'ru-RU',
   title: "Descience",
-  head: [['link', { rel: 'icon', href: '/favicon.ico' }]],
+  head: [
+    ['link', { rel: 'icon', href: '/favicon.ico' }],
+    // Вставляем предоставленный код для Google Tag Manager
+    ['script', { async: true, src: 'https://www.googletagmanager.com/gtag/js?id=G-9EYSRQDKKF' }],
+    ['script', {}, `
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-9EYSRQDKKF');
+    `]
+  ],
   description: "Арсенал дизайнера",
   base: '/descience/',
   themeConfig: {
