@@ -1,7 +1,10 @@
 # <u>Вдохновение</u>
-Список источников для поиска вдохновения. <br/> Используйте меню справа быстрого перемещения по подразделам.
+Ищете вдохновение для следующего проекта? Раскройте свой творческий потенциал, изучая постоянно растущую коллекцию дизайна от лучших мировых продуктов и дизайнеров.
 
-
+## ⭐️ Здесь есть всё
+- [Behance](https://www.behance.net/) <Badge type="tip" text="FP" /> — Кейсы дизайнеров по всем направлениям 
+- [Dribbble](https://dribbble.com/shots/popular) <Badge type="info" text="F" /> — Сообщество дизайнеров 
+- [Pinterest](https://www.pinterest.com/) <Badge type="info" text="F" /> — От ноготочков до интерфейсов
 
 ## UI - Пользовательский интерфейс
 
@@ -9,12 +12,12 @@
 - [Mobbin](https://mobbin.com/) <Badge type="tip" text="FP" /> — Библиотека веб-дизайна и мобильных приложений
 - [Behance](https://www.behance.net/) <Badge type="tip" text="FP" /> — Сообщество дизайнеров 
 - [Dribbble](https://dribbble.com/shots/popular) <Badge type="info" text="F" /> — Сообщество дизайнеров 
-- [Screenlane](https://screenlane.com/) <Badge type="info" text="F" /> — Мобильный и веб-дизайн
-- [Collect UI](http://collectui.com/) <Badge type="info" text="F" /> — Ежедневное вдохновение
-- [Design Vault](https://designvault.io/) <Badge type="info" text="F" /> — UI шаблоны и дизайн реальных продуктов
+- [Screenlane](https://screenlane.com/) <Badge type="info" text="F" /> — Приложения и Веб-дизайн
+- [Collect UI](http://collectui.com/) <Badge type="info" text="F" /> — Веб & App дизайн, отсортированный по страницам (Main, FAQ, SignUp, etc.)
+- [Design Vault](https://designvault.io/) <Badge type="info" text="F" /> — UI-шаблоны и дизайн реальных продуктов
 - [Pttrns](https://pttrns.com/) <Badge type="warning" text="P" /> — Скриншоты реальных приложений
-- [UI Garage](http://collectui.com/) <Badge type="info" text="F" /> — Ежедневная авторская подборка вдохновения для всех платформ
-- [Nicely Done](https://pttrns.com/) <Badge type="warning" text="P" /> — Вдохновение Web-продуктами
+- [UI Garage](https://uigarage.net/) <Badge type="info" text="F" /> — Веб & App дизайн, отсортированный по страницам (Main, FAQ, SignUp, etc.)
+- [Nicely Done](https://nicelydone.club/apps) <Badge type="warning" text="P" /> —  Крупнейшая библиотека вдохновения для веб-приложений
 - [Lookup.Design](https://lookup.design/) <Badge type="info" text="F" /> — Найди вдохновение в реальных проектах
 - [Empty States](https://emptystat.es/) <Badge type="info" text="F" /> — Курируемая галерея пустых страниц
 - [Auto Interfaces](https://www.autointerfaces.com/) <Badge type="info" text="F" /> — Экраны головных устройств автомобилей

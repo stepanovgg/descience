@@ -3,12 +3,12 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   lang: 'ru-RU',
   title: "Descience",
+  head: [['link', { rel: 'icon', href: '/favicon.ico' }]],
   description: "Арсенал дизайнера",
   base: '/descience/',
   themeConfig: {
     footer: {
-      message: 'Выпущено под лицензией MIT.',
-      copyright: 'Авторское право © 2019-настоящее время Еван Ю'
+      copyright: 'Made with ❤️ <a href="https://instagram.com/stepanov.go">StepanovGo</a>'
     },
     nav: [
       { text: 'Home', link: '/' },

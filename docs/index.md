@@ -26,14 +26,17 @@ features:
     title: Вдохновение / Inspire
     details: Сайты для поиска вдохновения перед началом творческого процесса
     link: /db/inspire
+    linkText: Перейти
   - icon: 🚧
     title: Иллюстрации / Vector
     details: В разработке
     # link: /db/illustration
+    linkText: Перейти
   - icon: 🚧
     title: Иконки / Icons
     details: Сайты с иллюстрациями
     # link: /db/icons
+    linkText: Перейти
   - icon: 🚧
     title: Мокапы / Mockups
     details: В разработке
