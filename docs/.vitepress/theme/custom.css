@@ -529,7 +529,7 @@ h1 {
     --vp-badge-info-bg: rgba(128, 128, 128, 0.14);
   
     --vp-badge-tip-border: transparent;
-    --vp-badge-tip-text: rgb(234, 230, 8);
+    --vp-badge-tip-text: rgb(255, 174, 0);
     --vp-badge-tip-bg: rgba(234, 230, 8, 0.14);
   
     --vp-badge-warning-border: transparent;
