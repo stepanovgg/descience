@@ -15,7 +15,7 @@ export default defineConfig({
     `]
   ],
   description: "Арсенал дизайнера",
-  base: '/base/',
+  base: '/',
   themeConfig: {
     logo: 'logo.svg',
     footer: {
