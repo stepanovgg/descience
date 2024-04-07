@@ -20,7 +20,6 @@ hero:
       text: Telegram
       link: https://t.me/descience
       
-
 features:
   - icon: 💭
     title: Вдохновение / Inspire
