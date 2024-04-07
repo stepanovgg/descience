@@ -1,5 +1,5 @@
 # <u>Figma & Sketch & XD</u>
-Список источников для поиска вдохновения. <br/> Используйте меню справа быстрого перемещения по подразделам.
+Инструменты, файлы и шаблоны для эффективной работы в Figma
 
 ## Figma
 - [Figma Community](https://www.figma.com/community) <Badge type="info" text="F" />
@@ -18,7 +18,3 @@
 - [XD Guru](https://www.xdguru.com/) <Badge type="tip" text="FP" />
 - [XD Elements](https://adobexdelements.com/) <Badge type="info" text="F" />
 
-
-<Badge type="info" text="F" />
-<Badge type="tip" text="FP" />
-<Badge type="warning" text="P" />

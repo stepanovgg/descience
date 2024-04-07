@@ -1,5 +1,5 @@
 # <u>Мокапы</u>
-Список источников для поиска вдохновения. <br/> Используйте меню справа быстрого перемещения по подразделам.
+Лучшие ресурсы для скачивания мокапов - визуализируйте свои проекты с легкостью
 
 ## Мокапы устройств
 - [Design at Meta - Devices](https://design.facebook.com/toolsandresources/devices/) <Badge type="info" text="F" />
@@ -43,9 +43,3 @@
 - [Pixeden](https://www.pixeden.com/) <Badge type="tip" text="FP" />
 - [Flyerwrk](https://www.flyerwrk.com/collections/mockups) <Badge type="tip" text="FP" />
 
-
-
-## Шаблоны
-<Badge type="info" text="F" />
-<Badge type="tip" text="FP" />
-<Badge type="warning" text="P" />

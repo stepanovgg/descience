@@ -31,14 +31,14 @@ export default defineConfig({
           text: 'Арсенал дизайнера',
           items: [
             { text: '💭 Вдохновение', link: '/db/inspire' },
-            { text: '✒️ Иллюстрации', link: '/db/inspire/index' },
-            { text: '⭐️ Иконки', link: '/db/inspire/index' },
-            { text: '💻 Мокапы', link: '/db/inspire/index' },
-            { text: '🐳 UI/UX-Киты', link: '/db/inspire/index' },
-            { text: '🆎 Шрифты', link: '/db/inspire/index' },
-            { text: '📷 Фотостоки', link: '/db/inspire/index' },
-            { text: '🎥 Видеостоки', link: '/db/inspire/index' },
-            { text: '🛠  Figma / XD / Sketch', link: '/db/inspire/index' }
+            { text: '✒️ Иллюстрации', link: '/db/vector' },
+            { text: '⭐️ Иконки', link: '/db/icons' },
+            { text: '💻 Мокапы', link: '/db/mockups' },
+            { text: '🐳 UI/UX-Киты', link: '/db/uxui' },
+            { text: '🆎 Шрифты', link: '/db/fonts' },
+            { text: '📷 Фотостоки', link: '/db/photostock' },
+            { text: '🎥 Видеостоки', link: '/db/videostock' },
+            { text: '🛠  Figma / XD / Sketch', link: '/db/figma' }
           ]
         },
         {

@@ -1,5 +1,5 @@
-# <u>Мокапы</u>
-Список источников для поиска вдохновения. <br/> Используйте меню справа быстрого перемещения по подразделам.
+# <u>Видеостоки</u>
+Топовые видеостоки для вдохновения и проектов
 
 ## Бесплатные Видеостоки
 - [Mixkit](https://mixkit.co/) <Badge type="info" text="F" />
@@ -20,11 +20,3 @@
 - [Artgrid](https://artgrid.io/) <Badge type="warning" text="P" />
 - [Vecteezy](https://www.vecteezy.com/) <Badge type="tip" text="FP" />
 - [Colorful](https://www.colorful.app/) <Badge type="tip" text="FP" />
-
-
-
-## Библиотеки шрифтов
-<Badge type="info" text="F" />
-<Badge type="tip" text="FP" />
-<Badge type="warning" text="P" />
-- [xxxxx](https://) <Badge type="info" text="F" />
