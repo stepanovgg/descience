@@ -1,6 +1,10 @@
 # <u>Мокапы</u>
 Лучшие ресурсы для скачивания мокапов - визуализируйте свои проекты с легкостью
 
+## Figma-мокапы
+- [⭐️ Мокап ВКонтакте](https://www.figma.com/design/hr0NkXnCOuBm6fSmLmMHbu/NEW-%F0%9F%94%A5-%7C-%D0%92%D0%9A%D0%BE%D0%BD%D1%82%D0%B0%D0%BA%D1%82%D0%B5-%D0%9C%D0%BE%D0%BA%D0%B0%D0%BF---%40stepanov.go?m=auto&t=0ejayQf32HaTXJOz-6)
+- [⭐️ Мокап Instagram](https://www.figma.com/design/bxhipq2U9xFR75gv5LRj2B/Instagram-MockUp-Full-Preview?m=auto&t=0ejayQf32HaTXJOz-6)
+
 ## Мокапы устройств
 - [Design at Meta - Devices](https://design.facebook.com/toolsandresources/devices/) <Badge type="info" text="F" />
 - [MockRocket](https://mockrocket.io/) <Badge type="tip" text="FP" />
@@ -21,7 +25,6 @@
 - [Designstripe Mockups](https://designstripe.com/mockups/) <Badge type="tip" text="FP" />
 
 ## Мокапы продуктов
-
 - [Artboard Studio Mockup Generator](https://artboard.studio/mockup-generator) <Badge type="tip" text="FP" />
 - [Placeit](https://1.envato.market/) <Badge type="warning" text="P" />
 - [Mockup World](https://www.mockupworld.co/) <Badge type="info" text="F" />
@@ -42,4 +45,3 @@
 - [GraphicBurger](https://graphicburger.com/mock-ups/) <Badge type="info" text="F" />
 - [Pixeden](https://www.pixeden.com/) <Badge type="tip" text="FP" />
 - [Flyerwrk](https://www.flyerwrk.com/collections/mockups) <Badge type="tip" text="FP" />
-

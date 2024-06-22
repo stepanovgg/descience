@@ -30,15 +30,38 @@ export default defineConfig({
         {
           text: 'Арсенал дизайнера',
           items: [
-            { text: '💭 Вдохновение', link: '/db/inspire' },
+            {
+              text:  '💭 Вдохновение', link: '/db/inspire',
+              collapsed: true,
+              items: [
+                { text: 'Здесь есть всё', link: '/db/inspire.html#%E2%AD%90%EF%B8%8F-%D0%B7%D0%B4%D0%B5%D1%81%D1%8C-%D0%B5%D1%81%D1%82%D1%8C-%D0%B2%D1%81%D0%B5' },
+                { text: 'User-Interface', link: '/db/inspire.html#ui-%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D0%BA%D0%B8%D0%B8-%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D1%84%D0%B5%D0%B8%D1%81' },
+                { text: 'Веб-дизайн', link: '/db/inspire.html#%D0%B2%D0%B5%D0%B1-%D0%B4%D0%B8%D0%B7%D0%B0%D0%B8%D0%BD' },
+                { text: 'Портфолио', link: '/db/inspire.html#%D0%BF%D0%BE%D1%80%D1%84%D0%BE%D0%BB%D0%B8%D0%BE' },
+                { text: 'SaaS', link: '/db/inspire.html#saas-%D0%B2%D0%B4%D0%BE%D1%85%D0%BD%D0%BE%D0%B2%D0%B5%D0%BD%D0%B8%D0%B5' },
+                { text: 'Лэндинги', link: '/db/inspire.html#%D0%BB%D1%8D%D0%BD%D0%B4%D0%B8%D0%BD%D0%B3%D0%B8' },
+                { text: 'Приложения', link: '/db/inspire.html#%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F' },
+                { text: 'Стартапы и продукты', link: '/db/inspire.html#%D1%81%D1%82%D0%B0%D1%80%D1%82%D0%B0%D0%BF%D1%8B-%D0%B8-%D0%BF%D1%80%D0%BE%D0%B4%D1%83%D0%BA%D1%82%D1%8B' },
+                { text: 'Реклама и коммерция', link: '/db/inspire.html#%D1%80%D0%B5%D0%BA%D0%BB%D0%B0%D0%BC%D0%B0-%D0%B8-%D1%8D%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%BD%D0%BD%D0%B0%D1%8F-%D0%BA%D0%BE%D0%BB%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D1%8F' },
+                { text: 'Email-Маркетинг', link: '/db/inspire.html#email-%D0%BC%D0%B0%D1%80%D0%BA%D0%B5%D1%82%D0%B8%D0%BD%D0%B3' },
+                { text: 'Фотография', link: '/db/inspire.html#%D1%84%D0%BE%D1%82%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%8F' },
+                { text: 'Видео', link: '/db/inspire.html#%D0%B2%D0%B8%D0%B4%D0%B5%D0%BE' },
+                { text: 'Дизайн и брендинг', link: '/db/inspire.html#%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B8-%D0%B4%D0%B8%D0%B7%D0%B0%D0%B8%D0%BD-%D0%B8-%D0%B1%D1%80%D0%B5%D0%BD%D0%B4%D0%B8%D0%BD%D0%B3' },
+                { text: 'Инструменты', link: '/db/inspire.html#%D0%B8%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%8B' }
+              ]
+            },
+            { text: '🎥 Видеостоки', link: '/db/videostock' },
+            { text: '📱 Конструкторы сайтов', link: '/db/webbuild' },
             { text: '✒️ Иллюстрации', link: '/db/vector' },
             { text: '⭐️ Иконки', link: '/db/icons' },
             { text: '💻 Мокапы', link: '/db/mockups' },
-            { text: '🐳 UI/UX-Киты', link: '/db/uxui' },
-            { text: '🆎 Шрифты', link: '/db/fonts' },
+            { text: '🤖 Нейросети', link: '/db/aitools' },
+            { text: '🌈 Работа с цветом', link: '/db/colors' },
             { text: '📷 Фотостоки', link: '/db/photostock' },
-            { text: '🎥 Видеостоки', link: '/db/videostock' },
-            { text: '🛠  Figma / XD / Sketch', link: '/db/figma' }
+            { text: '🆎 Шрифты', link: '/db/fonts' },
+            { text: '🐳 UI-Киты', link: '/db/uxui' },
+            { text: '🛠 UX-Инструменты', link: '/db/uxkits' },
+            { text: '📘 Figma / XD / Sketch', link: '/db/figma' }
           ]
         },
         {
