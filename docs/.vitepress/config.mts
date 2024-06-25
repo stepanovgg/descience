@@ -99,7 +99,18 @@ export default defineConfig({
               items: [
                 { text: 'Figma-мокапы', link: '/db/mockups.html#figma-%D0%BC%D0%BE%D0%BA%D0%B0%D0%BF%D1%8B' },
                 { text: 'Мокапы устройств', link: '/db/mockups.html#%D0%BC%D0%BE%D0%BA%D0%B0%D0%BF%D1%8B-%D1%83%D1%81%D1%82%D1%80%D0%BE%D0%B8%D1%81%D1%82%D0%B2' },
-                { text: 'Мокапы продуктовл', link: '/db/mockups.html#%D0%BC%D0%BE%D0%BA%D0%B0%D0%BF%D1%8B-%D0%BF%D1%80%D0%BE%D0%B4%D1%83%D0%BA%D1%82%D0%BE%D0%B2' },
+                { text: 'Мокапы продуктов', link: '/db/mockups.html#%D0%BC%D0%BE%D0%BA%D0%B0%D0%BF%D1%8B-%D0%BF%D1%80%D0%BE%D0%B4%D1%83%D0%BA%D1%82%D0%BE%D0%B2' },
+                   ],
+            },
+            {
+              text:  '📖 Организация работы', link: '/db/jobbers',
+              collapsed: true,
+              items: [
+                { text: 'Доски и пространства', link: '/db/jobbers.html#%D0%B4%D0%BE%D1%81%D0%BA%D0%B8-%D0%B8-%D1%81%D0%BE%D0%B2%D0%BC%D0%B5%D1%81%D1%82%D0%BD%D0%B0%D1%8F-%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0' },
+                { text: 'Менеджеры проектов', link: '/db/jobbers.html#%D0%BC%D0%B5%D0%BD%D0%B5%D0%B4%D0%B6%D0%B5%D1%80%D1%8B-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%BE%D0%B2' },
+                { text: 'Скринкасты и созвоны', link: '/db/jobbers.html#%D1%81%D0%BA%D1%80%D0%B8%D0%BD%D0%BA%D0%B0%D1%81%D1%82-%D0%B8-%D1%81%D0%BE%D0%B7%D0%B2%D0%BE%D0%BD%D1%8B' },
+                { text: 'Таймзоны', link: '/db/jobbers.html#%D1%87%D0%B0%D1%81%D0%BE%D0%B2%D1%8B%D0%B5-%D0%BF%D0%BE%D1%8F%D1%81%D0%B0' },
+
                    ],
             },
             {
